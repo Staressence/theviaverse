@@ -4,7 +4,11 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>The Via Verse</title>
+
+<!-- Fonts -->
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;700&family=Dancing+Script&display=swap" rel="stylesheet" />
+
+<!-- Stylesheet -->
 <link rel="stylesheet" href="style.css" />
 </head>
 <body>
@@ -14,11 +18,12 @@
     <h2>Welcome, Starbabies</h2>
   </header>
   <section class="intro">
-    <p>You've fallen into my frequency...
-      You're in the presence of all that I am...
-      Words, Art, Power, and Pretty Little Spells.
-      Take what you need. Worship nothing. 
-      Become everything.
+    <p>
+      You've fallen into my frequency...  
+      You're in the presence of all that I am...  
+      Words, Art, Power, and Pretty Little Spells.  
+      Take what you need. Worship nothing.  
+      Become everything.  
       Kiss your expectations good-bye.
     </p>
   </section>
